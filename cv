@@ -1,1 +1,91 @@
+<html>
+    <head>
+        <title> CV Resume</title>
+        <link rel="stylesheet" href="style.css">
+         <img src="user.jpeg" alt="Picture">
+         
+    </head>
+<body>
 
+    <h2><p></p><Em>Srijana Thapa </Em></p></h2> 
+   <p><Em>1756 Longview Dr <br>Lancaster, PA 17601 </Em></p> 
+   <p><Em>(267-902-1269) </Em></p> 
+   <p><Em>Email: Srijanathapa680@gmail.com</Em></p> 
+   <button onclick="replaceImagewithAltText">click me</button>
+    <br><hr>
+<br>
+    <strong><em>Present Status</em></strong>
+    <ul>
+        <li>Undergraducated college student</li>
+    </ul>
+<hr>
+    <h2><strong><em>Education</em></strong></h2>
+    <ol>
+     
+     <li>Thaddeus Stevens College of Technology <br>Auguest 2022 to present <br>Lancaster, PA 17602</li>
+     <br>
+     <li>Manhheim Township High School <br> September 15 2020 to june 2 2021 <br>Lancaster, PA 17601</li>
+    <br>
+     <li>Furness High School <br> september 7 2017 to march 2020 <br>Philadelphia, PA 19148</li>
+     <br>
+     <li>Southwark school <br>september 9 2016 to 2017 <br>Philadelphia, PA 19148</li>
+    <br>
+     <li>Francis Scott Key Elementary School <br>April 2013 to June 24 2015 <br>Philadelphia, PA 19148</li>
+    </ol>
+    <hr>
+    
+    <strong><em>Experience</em></strong>
+    <ul>
+        <li>Pennsylvania Migrant Education Program july 2016 to 2019 ( summer program).</li> <br>
+        <li>I volunteer to help the student with the writing, pair reading, and interpreting for student with limited english. </li>
+    </ul>
+<hr>
+    <h2><strong><em>Achievement</em></strong></h2>
+    <ul>
+        <li>Honor roll </li>
+        <li>Medal</li>
+        <li>Certification</li>
+        <li>Diploma</li>
+        <li>Perfect Attendant</li>
+        <li>Participate in high school Girl Soccer Club</li>
+        <li>Built AutoCade 3d Model</li>
+    </ul>
+    <hr>
+
+    <h2><strong><em>Skills</em></strong></h2>
+    <ul>
+        <li> Fluent in Nepali and English</li>
+        <li>Conversational skills in Hindi</li>
+        <li>Good Computer knowledge</li>
+        <li>Basic knowledge of HTML, CSS and JaveScript</li>
+    </ul>
+    <hr>
+    
+    <h2><strong><em>Hobbies</em></strong></h2>
+    <ul>
+        <li>Dance</li>
+        <li>Listen Music</li>
+        <li>Cooking</li>
+        <li>Travel</li>
+        <li>Read</li>
+        <li>Play badminton </li>
+    </ul>
+    <hr>
+
+    <h2><strong><em>Personal Information</em></strong></h2>
+    <ul>
+        <li>Full Name: Srijana Thapa</li>
+         <li>Father Name: Tanka Thapa</li>
+         <li>Mother Name: Kamala Thapa</li>
+         <li>Date of Birth: November 12 2002</li>
+         <li>Sex: Female</li>
+         <li>Marital Status: Single</li>
+         <li>Nationality: Nepali </li>
+         <li>Religion: Hinduism</li>
+         <li>Present Address: 1756 Longview Dr Lancaster. PA 17601</li>
+         <li>permanent Address: 1756 Longview Dr Lancaster, PA 17601</li>
+    </ul>
+
+    <script src="script.js"></script>
+</body>
+</html>
